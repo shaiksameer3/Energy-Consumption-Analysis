@@ -1,4 +1,4 @@
-➤ **Energy Consumption Analysis (SQL)**
+ **Energy Consumption Analysis (SQL)**
 
 ➤ **Overview**
 
